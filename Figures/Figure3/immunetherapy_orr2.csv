@@ -1,0 +1,107 @@
+cancername,Type,Caner description in paper,Identifier,Drugs,Clinical Trail Number,Phase,Patients number,ORR
+BreastCancer,Module1,mTNBC,PMID: 30242306,Atezolizumab,NCT01375842,1b,21,0.24
+BreastCancer,Module1,mTNBC,PMID: 30242306,Atezolizumab,NCT01375842,1b,94,0.06
+BreastCancer,Module1,mTNBC,DOI: 10.1093/annonc/mdz394.010,Pembrolizumab,NCT02555657,3,312,0.096
+BreastCancer,Module1,mTNBC,DOI: 10.1093/annonc/mdy517,Pembrolizumab,NCT02447003,2,170,0.053
+BreastCancer,Module1,mTNBC,KEYNOTE-119: A randomized phase III study of single-agent pembrolizumab (MK-3475) vs single-agent chemotherapy per physician’s choice for metastatic triple-negative breast cancer (mTNBC).?J Clin Oncol?34(15_suppl),Pembrolizumab,KEYNOTE-012,1,600,0.185
+BreastCancer,Module1,HER2-negative advanced breast,"Abstract S5-07: Preliminary efficacy and safety of pembrolizumab (MK-3475) in patients with PD-L1-positive, estrogen receptor-positive (ER+)/HER2-negative advanced breast cancer enrolled in KEYNOTE-028.",Pembrolizumab,,1,248,0.12
+BreastCancer,Module1,mTNBC,Abstract P5-15-02: Phase 1b/2 study to evaluate eribulin mesylate in combination with pembrolizumab in patients with metastatic triple-negative breast cancer.?,Pembrolizumab,,1b/2,82,0.333
+BreastCancer,Module1,mTNBC,Abstract 2859: Inhibition of PD-L1 by MPDL3280A leads to clinical activity in patients with metastatic triple-negative breast cancer (TNBC).?Cancer Res?75(15 suppl):2859?,,,1a,27,0.26
+BreastCancer,Module1,metastatic breast cancer,34474219,,,,151,0.189
+BreastCancer,Module1,mTNBC,doi: 10.1200/jco.2017.35.15_suppl.1088,pembrolizumab,KEYNOTE-086 Cohort B,2,84,0.231
+EndometrialCarcinoma,Module1,Cervical Cancer,PMID: 31348579,Nivolumab,(N=84),2,20,0.25
+EndometrialCarcinoma,Module1,Cervical Cancer,PMID: 30943124,Pembrolizumab,NCT02628067,2,98,0.122
+EndometrialCarcinoma,Module1,Cervical Cancer,DOI: 10.1016/j.ygyno.2020.06.008,Durvalumab,CN-02202844,2,20,0.1
+EndometrialCarcinoma,Module1,Cervical Cancer,DOI: 10.1200/JCO.2017.35.15_suppl.5504,Nivolumab,NCT02488759,1\2,19,0.263
+LiverCancer,Module3,Biliary tract cancers,PMID: 31109808,Nivolumab,JapicCTI-153098,1b,30,0.03
+LiverCancer,Module3,Biliary tract cancers,PMID: 32352498,Nivolumab,NCT02829918,2,45,0.22
+LiverCancer,Module3,Biliary tract cancers,DOI: 10.1158/1538-7445.AM2020-CT043,Atezolizumab,NCT03201458,2,34,0.029
+LiverCancer,Module3,Biliary tract cancers,PMID: 32919526,Pembrolizumab,NCT02628067,2,63,0.032
+LiverCancer,Module3,Biliary tract cancers,PMID: 32540858,Tislelizumab,NCT02407990,1b,18,0
+ColorectalCancer,Module2,Colorectal Cancer,PMID: 32540858,Tislelizumab,NCT02407990,1b,21,0.143
+ColorectalCancer,Module2,Colorectal Cancer,PMID: 31003911,Atezolizumab,NCT02788279,3,90,0.02
+ColorectalCancer,Module2,Colorectal Cancer-MMRp,PMID: 26028255,Pembrolizumab,NCT01876511,2,18,0
+ColorectalCancer,Module2,Colorectal Cancer-MMRd,PMID: 31725351,Pembrolizumab,NCT02460198,2,33,0.33
+EsophagealCancer,Module2,Esophageal squamous cell carcinoma,PMID: 30128737,Nivolumab,JapicCTI-No.142422,2,20,0.3
+EsophagealCancer,Module2,Esophageal squamous cell carcinoma,PMID: 33170461,Nivolumab,NCT02569242,3,210,0.19
+EsophagealCancer,Module2,Esophageal cancer,PMID: 32540858,Tislelizumab,NCT02407990,1b,54,0.111
+EsophagealCancer,Module2,Esophageal cancer,PMID: 33026938,Pembrolizumab,NCT02564263,3,314,0.131
+EsophagealCancer,Module2,Esophageal cancer,DOI: 10.1200/JCO.2019.37.15_suppl.4032,Pembrolizumab,NCT02559687,2,63,0.1
+HeadandNeck,Module3,Squamous cell carcinoma of the head and neck,PMID: 31239321,Nivolumab,NCT02105636,3,240,0.133
+HeadandNeck,Module3,Squamous cell carcinoma of the head and neck,DOI: 10.1200/JCO.2019.37.15_suppl.6012,Durvalumab,NCT02369874,3,240,0.179
+HeadandNeck,Module3,Squamous cell carcinoma of the head and neck,DOI: 10.1016/j.annonc.2020.08.1030,Pembrolizumab,NCT02358031,3,301,0.169
+HeadandNeck,Module3,Squamous cell carcinoma of the head and neck,PMID: 30731276,Durvalumab,NCT01693562,2,62,0.065
+HeadandNeck,Module3,Squamous cell carcinoma of the head and neck,PMID: 28328302,Pembrolizumab,NCT02255097,2,171,0.16
+HeadandNeck,Module3,Squamous cell carcinoma of the head and neck,DOI: 10.1093/annonc/mdz252.007,Pembrolizumab,NCT02252042,3,244,0.148
+HeadandNeck,Module3,Squamous cell carcinoma of the head and neck,PMID: 30219915,Nivolumab,NCT01375842,1,32,0.22
+HeadandNeck,Module3,Squamous cell carcinoma of the head and neck,PMID: 32540858,Tislelizumab,NCT02407990,1b,20,0.15
+KidneyCancer,Module3,Renal Cell Carcinoma,PMID: 26755520,Atezolizumab,NCT01375842,1a,62,0.15
+KidneyCancer,Module3,Renal Cell Carcinoma,DOI: 10.1200/JCO.2017.35.15_suppl.4505,Atezolizumab,NCT01984242,2,103,0.25
+KidneyCancer,Module3,Renal Cell Carcinoma,PMID: 32540858,Tislelizumab,NCT02407990,1b,16,0.313
+KidneyCancer,Module3,Renal Cell Carcinoma,DOI: 10.1200/JCO.2016.34.15_suppl.4552,Nivolumab,NCT01668784,3,410,0.19
+KidneyCancer,Module3,Renal Cell Carcinoma,DOI: 10.1093/annonc/mdz253.094,Nivolumab,NCT02118337,1\2,21,0.19
+KidneyCancer,Module3,Renal Cell Carcinoma,PMID: 32540858,Tislelizumab,NCT02407990,1b,16,0.313
+LiverCancer,Module3,Hepatocellular Carcinoma,DOI: 10.1200/JCO.2020.38.4_suppl.518,Pembrolizumab,NCT02702414,2,104,0.183
+LiverCancer,Module3,Hepatocellular Carcinoma,PMID: 28434648,Nivolumab,NCT01658878,1\2,262,0.161
+LiverCancer,Module3,Hepatocellular Carcinoma,PMID: 34292792,Durvalumab,NCT01693562,1\2,39,0.103
+LiverCancer,Module3,Hepatocellular Carcinoma,PMID: 32540858,Tislelizumab,NCT02407990,1b,50,0.12
+LiverCancer,Module3,Hepatocellular Carcinoma,PMID: 32502443,Atezolizumab,NCT02715531,1b,59,0.17
+LiverCancer,Module3,Hepatocellular Carcinoma,PMID: 32112738,Camrelizumab,NCT02989922,2,217,0.147
+LiverCancer,Module3,Hepatocellular Carcinoma,PMID: 31251403,Pembrolizumab,NCT02658019,2,29,0.32
+LiverCancer,Module3,Hepatocellular Carcinoma,DOI: 10.1016/j.annonc.2020.04.059,Durvalumab,NCT02519348,3,104,0.096
+LiverCancer,Module3,Hepatocellular Carcinoma,DOI: 10.1093/annonc/mdz394.029,Nivolumab,NCT02576509,3,371,0.15
+LungCancer,Module1,Non-Small-Cell Lung - Non-Squamous,DOI: 10.1093/annonc/mdx091.009,Atezolizumab,NCT02008227,3,313,0.33
+LungCancer,Module1,Non-Small-Cell Lung - Non-Squamous,PMID: 26412456,Nivolumab,NCT01673867,3,292,0.19
+LungCancer,Module1,Non-Small-Cell Lung - Non-Squamous,PMID: 25891174,Pembrolizumab,NCT01295827,1,401,0.187
+LungCancer,Module1,Non-Small-Cell Lung - Non-Squamous,PMID: 28373005,Avelumab,NCT01772004,1b,114,0.11
+LungCancer,Module1,Non-Small-Cell Lung - Non-Squamous,PMID: 31228626,Durvalumab,NCT01693562,1\2,121,0.157
+LungCancer,Module1,Non-Small-Cell Lung - Squamous,DOI: 10.1177/1010428318815047,Nivolumab,EAP-1,3,38,0.237
+LungCancer,Module1,Non-Small-Cell Lung - Squamous,PMID: 26028407,Nivolumab,NCT01642004,3,135,0.2
+LungCancer,Module1,Non-Small-Cell Lung - Squamous,PMID: 25891174,Pembrolizumab,NCT01295827,1,85,0.235
+LungCancer,Module1,Non-Small-Cell Lung - Squamous,PMID: 28373005,Avelumab,NCT01772004,1b,53,0.13
+LungCancer,Module1,Non-Small-Cell Lung - Squamous,PMID: 31228626,Durvalumab,NCT01693562,1\2,135,0.148
+LungCancer,Module1,Non-Small-Cell Lung - Squamous,DOI: 10.1016/j.jtho.2019.08.423,Nivolumab,NCT02785952,3,127,0.17
+LungCancer,Module1,Non-Small-Cell Lung - Squamous,DOI: 10.1093/annonc/mdx091.009,Nivolumab,NCT02008227,3,112,0.116
+LungCancer,Module1,Non-Small-Cell Lung - Squamous,DOI: 10.1200/JCO.2016.34.15_suppl.3067,Nivolumab,EAP-2,3,371,0.18
+LungCancer,Module1,Non-Small-Cell Lung - Squamous,DOI: 10.1093/annonc/mdx091.003,Durvalumab,NCT02766335,2,68,0.16
+OvarianCancer,Module3,Ovarian Cancer,PMID: 26351349,Nivolumab,UMIN000005714,1b,20,0.15
+OvarianCancer,Module3,Ovarian Cancer,PMID: 32540858,Tislelizumab,NCT02407990,1b,51,0.098
+OvarianCancer,Module3,Ovarian Cancer,PMID: 32012411,Pembrolizumab,NCT02674061,2,21,0.19
+OvarianCancer,Module3,Ovarian Cancer,PMID: 22658128,Bms-936559/Nivolumab,NCT00729664,1b,17,0.058
+OvarianCancer,Module3,Ovarian Cancer,DOI: 10.1093/annonc/mdz339.028,Avelumab,NCT02580058,3,14,0.143
+Pancreatic,Module2,Prostate Cancer,PMID: 22658128,Nivolumab,NCT00729664,1,14,0
+Pancreatic,Module2,Pancreatic Ductal Adenocarcinoma,PMID: 31318392,Durvalumab,NCT02558894,2,32,0
+Pancreatic,Module2,Prostate Cancer,PMID: 31774688,Pembrolizumab,NCT02787005,2,199,0.05
+Pancreatic,Module2,Prostate Cancer,29992241,Pembrolizumab,NCT02054806,2,23,0.174
+Pancreatic,Module2,mCRPC,"DOI: 10.1200/JCO.2020.38.6_suppl.103?Journal of Clinical Oncology?38, no.?6_suppl (February 20, 2020) 103-103.",pembrolizumab,,,39,0.18
+Melanoma,Module1,Melanoma,DOI: 10.1200/JCO.2017.35.15_suppl.9504,Pembrolizumab,NCT01866319,3,556,0.42
+Melanoma,Module1,Melanoma,PMID: 26027431,Nivolumab,NCT01844505,3,316,0.437
+Melanoma,Module1,Melanoma,PMID: 33872982,Prolgolimab,NCT03269565,2,126,0.333
+Melanoma,Module1,Melanoma,PMID: 30520799,Pembrolizumab,NCT02083484,3,42,0.166
+Melanoma,Module1,Melanoma,DOI: 10.1093/annonc/mdx377.011,Pembrolizumab,NCT01704287,2,361,0.274
+Melanoma,Module1,Melanoma,PMID: 31358540,Atezolizumab,NCT01375842,1,43,0.302
+Melanoma,Module1,Melanoma,PMID: 30715153,Pembrolizumab,NCT01295827,1b,655,0.41
+Melanoma,Module1,Melanoma,DOI: 10.1093/annonc/mdz394.065,Nivolumab,NCT01844505,3,316,0.45
+Melanoma,Module1,Melanoma,PMID: 29602646,Nivolumab,NCT02374242,2,25,0.29
+Melanoma,Module1,Melanoma,DOI: 10.1016/S1470-2045(19)30274-8,Pembrolizumab,NCT02752074,3,352,0.315
+Melanoma,Module1,Melanoma,DOI: 10.1093/annonc/mdy439.003,Nivolumab,UMIN000016608,3,124,0.185
+Melanoma,Module1,Melanoma,DOI: 10.1186/s13045-018-0693-2,Toripalimab,NCT02836795,1,22,0.182
+GastricCancer,Module1,Gastric cancer,DOI: 10.1200/JCO.2020.38.15_suppl.4512,Pembrolizumab,NCT02370498,3,218,0.123
+GastricCancer,Module1,Gastric cancer,PMID: 33743112,Nivolumab,NCT02267343,3,330,0.097
+GastricCancer,Module1,Gastric cancer,PMID: 32540858,Tislelizumab,NCT02407990,1b,54,0.13
+ThyroidCancer,Module1,advanced thyroid cancer,36748723,Pembrolizumab,,2,103,0.068
+ThyroidCancer,Module1,locally advanced or metastatic FTC or PTC,30832606,Pembrolizumab,KEYNOTE-028,Ib,22,0.09
+ThyroidCancer,Module1,ATC,doi:? 10.1200/JCO.19.02727,spartalizumab,,2,42,0.19
+ThyroidCancer,Module1,ATC,DOI: 10.1200/JCO.2018.36.15_suppl.6024,spartalizumab,(NCT02404441,1\2,30,0.17
+ThyroidCancer,Module1,Cell and poorly differentiated thyroid carcinoma,doi:? 10.1200/JCO.2020.38.15_suppl.6512,pembrolizumab,,2,29,0.62
+ThyroidCancer,Module1,ATC,DOI: 10.1200/JCO.2018.36.15_suppl.e18114,,,,4,0.5
+ThyroidCancer,Module1,ATC,DOI: 10.1200/JCO.19.02727,spartalizumab,NCT02404441,1\2,40,0.2
+EndometrialCarcinoma,Module1,Endometrial carcinoma and endometrial carcinosarcoma,DOI: 10.1200/JCO.2019.37.15_suppl.5582,Durvalumab,NCT03015129,2,28,0.148
+EndometrialCarcinoma,Module1,Endometrial Cancer-MMRp,DOI: 10.1200/JCO.2019.37.15_suppl.5501,Durvalumab,ACTRN12617000106336,2,36,0.03
+EndometrialCarcinoma,Module1,Endometrial Cancer-MMRd,DOI: 10.1200/JCO.2019.37.15_suppl.5501,Durvalumab,ACTRN12617000106336,2,35,0.4
+LiverCancer,Module3,,29875066,pembrolizumab,,2,104,0.17
+LiverCancer,Module3,,34870682,nivolumab,,,985,0.15
+LiverCancer,Module3,,31790344,pembrolizumab,,3,413,0.183
+LiverCancer,Module3,,34914889,"nivolumab (NIVO)(240 mg IV Q2W), sorafenib (SOR)(400 mg oral BID)",,3,743,0.15
+LiverCancer,Module3,,35379737,avelumab and axitinib,,3,20,0.136
+EsophagealCancer,Module2,,30128737,Nivolumab,,,20,0.3
