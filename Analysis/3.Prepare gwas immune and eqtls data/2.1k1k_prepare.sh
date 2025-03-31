@@ -12,3 +12,7 @@ awk '{if($6<=5e-2) print $1,$2,$3,$4,$5}' onek1k_eqtl_filterpvalue.tsv >onek1k_e
 
 wc -l onek1k_eqtl_filter5e2.tsv
 #4077555
+
+awk '{if($6<=1e-5) print $1,$2,$3,$4,$5,$6}' onek1k_eqtl_filterpvalue.tsv >onek1k_eqtl_filter1e5.tsv
+wc -l onek1k_eqtl_filter1e5.tsv
+
